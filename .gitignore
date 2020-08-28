@@ -1,0 +1,8 @@
+
+checkpoints
+results
+datasets
+class_feat
+*.pth
+*/__pycache__
+*/*/*.pyc
