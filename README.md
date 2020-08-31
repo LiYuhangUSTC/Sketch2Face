@@ -2,7 +2,7 @@
 
 Work in progress...
 
-This is the official implementation of paper DeepFacePencil: Creating Face Images from Freehand Sketches. [arXiv Link](arXiv Link) [Project](Project Link)
+This is the official implementation of paper DeepFacePencil: Creating Face Images from Freehand Sketches. [arXiv Link](arXiv Link) [Project](https://liyuhangustc.github.io/Sketch2Face/)
 
 ![architecture](figure/architecture.png "architecture")
 
