@@ -4,7 +4,7 @@ Work in progress...
 
 This is the official implementation of paper DeepFacePencil: Creating Face Images from Freehand Sketches. [arXiv Link](arXiv Link) [Project](Project Link)
 
-![architecture](figures/architecture.png "architecture")
+![architecture](figures/architecture.png"architecture")
 
 ### Prerequisites
 PyTorch 1.6, Python 3.7, NumPy, scipy, PIL, tqdm
