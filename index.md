@@ -102,10 +102,12 @@ for providing computational resources.
 } 
 ```
 
-## Downloads
+## Links
 
 [Demo](http://202.38.69.241:42333/)
 
 [Paper]()
 
 [Code](https://github.com/LiYuhangUSTC/Sketch2Face)
+
+[Lines2Face Project](https://liyuhangustc.github.io/Lines2Face/)
