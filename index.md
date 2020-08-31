@@ -43,8 +43,10 @@ The dual generators 𝐺𝑚 and 𝐺𝑎 are trained simultaneously with three 
 module.
 
 ## Results
-![results](figure/results.png "results")
 
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/results.png" width="768">
+</p>
 
 **Figure 3**: Both our model and existing models, which generate
 plausible photo-realistic face images from synthesized
@@ -52,15 +54,21 @@ sketches in training set, are able to be generalized to synthesized
 test sketches without deformation that shows similar
 distribution with the training data distribution.
 
-![generalization_examples](figure/generalization_examples.png "generalization_examples")
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/generalization_examples.png" width="768">
+</p>
 
 **Figure 4**: For sketches with large deformation, both baseline model and baseline_deform model fail to generate satisfying results. Artifacts can be found in areas with large sketch deformation in (b) and (c). Our results maintain high image quality even large deformation occurs in the input sketch.
 
-![expertsketches](figure/expertsketches.png "expertsketches")
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/expertsketches.png" width="768">
+</p>
 
 **Figure 5**: Our model is successfully generalized to well-drawn expert sketches, while the result quality of baseline models degenerates even trained with deformed sketches.
 
-![commonsketches](figure/commonsketches.png "commonsketches")
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/commonsketches.png" width="768">
+</p>
 
 **Figure 6**: For these challenging sketches drawn by common users, our model is able to generate plausible results. In comparison, the results of baseline models are over blurry and present obvious artifacts in fine textures.
  
