@@ -25,23 +25,26 @@ of our model over existing methods on both image quality and
 model generalization to hand-drawn sketches.
 
 ## Architecture
-
-![architecture](figure/architecture.png "architecture")
-
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/architecture.png" width="1024">
+</p>
+ 
 **Figure 1**: The architecture of our dual-generator model with spatial attention pooling (SAP) for deformed sketches. In order
 to train a face image generator 𝐺𝑚 for hand-drawn sketches, we synthesize deformed sketches S𝑑𝑓𝑚 from an edge-aligned
 sketch S𝑠𝑦𝑛 and design a spatially attention pooling module to extract shape and structure features from distorted sketches.
 The dual generators 𝐺𝑚 and 𝐺𝑎 are trained simultaneously with three discriminators in an adversarial manner.
 
 ## Spatial Attention Pooling (SAP)
-
-<img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/sap.png" width="256">
+<p align="center">
+ <img src="https://github.com/LiYuhangUSTC/Sketch2Face/blob/master/figure/sap.png" width="512">
+</p>
 
 **Figure 2**: Network architecture of our spatial attention pooling
 module.
 
 ## Results
 ![results](figure/results.png "results")
+
 
 **Figure 3**: Both our model and existing models, which generate
 plausible photo-realistic face images from synthesized
