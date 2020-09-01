@@ -1,10 +1,9 @@
 # Sketch2Face
 
-Work in progress...
 
-This is the official implementation of paper **DeepFacePencil: Creating Face Images from Freehand Sketches**. [arXiv Link](https://arxiv.org/abs/2008.13343) [Project](https://liyuhangustc.github.io/Sketch2Face/)
+This is the official implementation of paper **DeepFacePencil: Creating Face Images from Freehand Sketches**. [arXiv](https://arxiv.org/abs/2008.13343), [Project](https://liyuhangustc.github.io/Sketch2Face/)
 
-Also see [Lines2Face project](https://liyuhangustc.github.io/Lines2Face/)
+Also see another project: [Lines2Face project](https://liyuhangustc.github.io/Lines2Face/)
 
 ![architecture](figure/architecture.png "architecture")
 
