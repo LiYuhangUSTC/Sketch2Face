@@ -106,7 +106,7 @@ for providing computational resources.
 
 [Demo](http://202.38.69.241:42333/)
 
-[Paper]()
+[Paper](https://arxiv.org/abs/2008.13343)
 
 [Code](https://github.com/LiYuhangUSTC/Sketch2Face)
 
