@@ -17,7 +17,7 @@ We use [CelebAMask-HQ](https://github.com/switchablenorms/CelebAMask-HQ) to obta
 [GoogleDrive](https://drive.google.com/drive/folders/1Oga57eTNEIbuxV6L9GxGYv9fyIEdcBCD?usp=sharing)
 
 ### Test
-The test sketches should be put in folder `./datasets/CelebAMask/test_A`. The pretrained model should be put in folder `./checkpoints/pretrained`. Example script of testing can be found in `./test_scripts.sh`. The results are supposed to be in `./results`.
+The test sketches should be put in folder `./datasets/CelebAMask/test_A`. The pretrained model should be put in folder `./checkpoints/pretrained`. Example script of testing can be found in `./test_scripts.sh`. The results are supposed to be in `./results`. The deform.pth file is uploaded to Google Drive.
 
 ### Cite
 ```
